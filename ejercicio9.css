@@ -1,0 +1,22 @@
+.btn-modern {
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    height: 50px;
+    margin-left: 800px;
+    margin-top: 450px;
+    background-color: blue;
+    color: beige;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+
+.btn-modern:hover {
+    border-bottom: 2px solid #000;
+    background-color: blueviolet;
+    color: aquamarine;
+    transition: 0.4s;
+    margin-top: 445px;
+}
